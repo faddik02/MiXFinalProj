@@ -21,6 +21,8 @@ Other external sources:
 9. https://www.youtube.com/watch?v=XhYHuju5n6M
 10. https://www.youtube.com/watch?v=bq_PIBWw5oI
 11. https://www.youtube.com/watch?v=Mm_zBHw6Unw
+13. https://docs.unity3d.com/Manual/class-AudioSource.html
+14. https://docs.unity3d.com/ScriptReference/AudioSource.Pause.html
 12. https://stackoverflow.com/
 
 
